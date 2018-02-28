@@ -71,8 +71,8 @@ Sí que podría serlo, de hecho lo hubiese sido si no hubiésemos especificado e
 
 **11. ¿Qué comando o comandos utilizaste en el paso 30?**
 
-`git  reflog`  y  `git reset --hard 9ef6531` También podría haberse utilizado `git checkoout 9ef6531`, con lo que posteriormente deberíamos haber vuelto a la rama master con `git checkoout master`.
-` 
+`git  reflog`  y  `git reset --hard 9ef6531` También podría haberse utilizado `git checkout 9ef6531`, con lo que posteriormente deberíamos haber vuelto a la rama master con `git checkoout master`.
+
 --
 
 **12. ¿Qué comando o comandos usaste en el paso 32? **
